@@ -15,7 +15,8 @@ You can ignore most file other than `polynomial.cpp` and the `Makefile,` the oth
 
 The problem is simple. It is to compute a polynomial function `F` of degree `d`:
 
-![image-20200125160510188](formula)
+![image-20200125160510188](formula.png)
+
 
 for an array of `n` values of `x`.
 
